@@ -1,0 +1,42 @@
+.imagem {
+  width: 500px;
+  height: 500px;
+}
+
+.formulario {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.formulario form {
+  display: flex;
+  flex-direction: column;
+
+  align-items: left;
+  color: aliceblue;
+  justify-content: center;
+}
+
+.formulario button {
+  background: #fd377e;
+  border: 2px solid #fd377e;
+  border-radius: 8px;
+  width: 241px;
+  height: 48px;
+  color: white;
+}
+
+.formulario h1 {
+  width: 347px;
+  height: 144px;
+  text-align: left;
+  font-size: 38px;
+  font-style: 700px;
+}
+
+.imagemInicio {
+  width: 123px;
+  height: 20px;
+}

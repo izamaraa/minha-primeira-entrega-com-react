@@ -1,0 +1,23 @@
+.valor {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #fd377e;
+}
+.campoValor {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.descricaoValor {
+  display: flex;
+  justify-content: center;
+}
+.totalMoney {
+  background: #ffffff;
+
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+}

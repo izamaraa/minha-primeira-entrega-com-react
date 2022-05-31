@@ -1,0 +1,21 @@
+button {
+  background: #fd377e;
+  border: 2px solid #fd377e;
+  border-radius: 8px;
+  color: #e9ecef;
+  margin-left: 5px;
+}
+.parte1 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.parte0 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background: #f8f9fa;
+  border-radius: 4px;
+}

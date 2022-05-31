@@ -1,0 +1,32 @@
+.dados {
+  width: 363px;
+  height: 351px;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  padding: 25px;
+  display: flex;
+  align-content: flex-start;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.submit {
+  width: 314px;
+  height: 48px;
+  left: 24.5px;
+  top: 265px;
+  background: #fd377e;
+  border: 2px solid #fd377e;
+  border-radius: 8px;
+  color: #e9ecef;
+}
+.box-descricao {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  color: black;
+}
+span {
+  color: black;
+}

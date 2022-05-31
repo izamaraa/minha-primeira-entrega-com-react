@@ -1,0 +1,55 @@
+.header {
+  display: flex;
+  height: 88px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.botaoTeste {
+  background-color: #e9ecef;
+  width: 64px;
+  height: 40px;
+  color: #5b6166;
+  border: 1.4px solid #e9ecef;
+  border-radius: 8px;
+}
+.filtro {
+  display: flex;
+  color: black;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.resumoFinanceiro {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 69px;
+  height: 40px;
+  background: #fd377e;
+  border: 1.4px solid #fd377e;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.resumo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 69px;
+  height: 40px;
+  background: #e9ecef;
+  border: 1.4px solid #e9ecef;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+.p {
+  display: flex;
+  margin-left: 100px;
+}
